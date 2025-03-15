@@ -1,4 +1,4 @@
-#[OTT-Domain-Merger-Mysql-Project]
+#[OTT-Domain-Merger-Mysql-Project](https://github.com/asminaanvar/OTT-Domain-mysql-project.git-)
 
 This repository contains a MySQL database schema and queries for analyzing telecom customer usage data, cleaning the data, and analyzing revenue, content consumption rate, upgrade and downgrade changes, and churn.
 ✅ Features
